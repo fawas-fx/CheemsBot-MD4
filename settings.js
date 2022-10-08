@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['919207343986'] //ur owner number
-global.ownername = "FAWAS.FX🦄" //ur owner name
+global.ownername = "FAWAS.FX🧞‍♂️" //ur owner name
 global.ytname = "YT: Guppies world aqua" //ur yt chanel name
 global.socialm = "Insta: fawas.fx" //ur github or insta name
 global.location = "India, kerala, kollam" //ur location
@@ -69,8 +69,8 @@ global.websitex = "https://youtube.com/c/Guppiesworldaqua" //ur website to be di
 global.botscript = 'https://github.com/fawas-fx/fawas-fx' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "ffx Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "FAWAS.FX 💎" //ur sticker watermark author
+global.packname = "INSTAGRAM:" //ur sticker watermark packname
+global.author = "FAWAS.FX" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
