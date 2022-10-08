@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['919207343986'] //ur owner number
-global.ownername = "🦄Fawas mhmd" //ur owner name
+global.ownername = "FAWAS.FX🦄" //ur owner name
 global.ytname = "YT: Guppies world aqua" //ur yt chanel name
 global.socialm = "Insta: fawas.fx" //ur github or insta name
 global.location = "India, kerala, kollam" //ur location
@@ -63,7 +63,7 @@ global.location = "India, kerala, kollam" //ur location
 //bot bomdy 
 global.owner = ['919207343986']
 global.ownertag = '919207343986' //ur tag number
-global.botname = 'FAWAS.FX' //ur bot name
+global.botname = 'FFX BOT V4' //ur bot name
 global.linkz = "https://youtube.com/c/Guppiesworldaqua" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/c/Guppiesworldaqua" //ur website to be displayed
 global.botscript = 'https://github.com/fawas-fx/fawas-fx' //script link
